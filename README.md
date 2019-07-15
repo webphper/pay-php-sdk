@@ -10,6 +10,7 @@ PHP支付SDK（微信支付 + 支付宝支付）
 ## WeChatDeveloer 代码地址
 * Gitee仓库：https://gitee.com/zoujingli/WeChatDeveloper
 * Github仓库：https://github.com/zoujingli/WeChatDeveloper
+---
 
 欢迎`Star`，欢迎`Fork`！
 
