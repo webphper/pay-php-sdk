@@ -6,8 +6,7 @@ PHP支付SDK（微信支付 + 支付宝支付）
 [![Latest Unstable Version](https://poser.pugx.org/zoujingli/pay-php-sdk/v/unstable)](https://packagist.org/packages/zoujingli/pay-php-sdk)
 [![License](https://poser.pugx.org/zoujingli/pay-php-sdk/license)](https://packagist.org/packages/zoujingli/pay-php-sdk)
 
-## 感谢大家对此项目的支持，目前 WeChatDeveloer 已经完全可能替代它，此项目已经停止更新。
-## 有需要做 微信支付、支付宝支付、微信服务号管理、微信小程序管理、微信开放平台 开发的朋友可以转移到 [WeChatDeveloer](https://github.com/zoujingli/WeChatDeveloper) ，谢谢。
+## 感谢大家对此项目的支持，目前 WeChatDeveloer 已经完全可能替代它，此项目已经停止更新。有需要做 微信支付、支付宝支付、微信服务号管理、微信小程序管理、微信开放平台 开发的朋友可以转移到 [WeChatDeveloer](https://github.com/zoujingli/WeChatDeveloper) ，谢谢。
 ## WeChatDeveloer 代码地址
 * Gitee仓库：https://gitee.com/zoujingli/WeChatDeveloper
 * Github仓库：https://github.com/zoujingli/WeChatDeveloper
