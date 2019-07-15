@@ -10,6 +10,13 @@ PHP支付SDK（微信支付 + 支付宝支付）
 
 项目设计及部分源码参考于 [yansongda/pay](https://github.com/yansongda/pay)，在此特别感谢！
 
+
+## 感谢大家对此项目的支持，WeChatDeveloer 已经完全替代它，目前此项目已经停止更新。
+## 有需要微信支付、支付宝支付、微信服务号管理、微信小程序管理、微信开放平台的朋友的可以转移到 [WeChatDeveloer](https://github.com/zoujingli/WeChatDeveloper) ，谢谢。
+## WeChatDeveloer 代码地址
+* Gitee仓库：https://gitee.com/zoujingli/WeChatDeveloper
+* Github仓库：https://github.com/zoujingli/WeChatDeveloper
+
 ## 特点
 - 代码简洁，无需加载多余组件，可应用于任何平台或框架
 - 隐藏开发者不需要关注的细节，完全内部实现
