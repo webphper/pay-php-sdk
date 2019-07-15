@@ -26,7 +26,9 @@ if ($verify) {
     file_put_contents('notify.txt', "收到异步通知\r\n", FILE_APPEND);
 }
 
-echo "success";
+
+echo '<xml><return_code>SUCCESS</return_code><return_msg>OK</return_msg></xml>';
+
 
 // 下面是项目的真实代码
 /*
@@ -38,5 +40,5 @@ if ($notifyInfo['result_code'] == 'SUCCESS' && $notifyInfo['return_code'] == 'SU
     // 更新订单状态
     $this->updateOrder($order_no, $notifyInfo['transaction_id'], $notifyInfo['cash_fee'] / 100, 'wechat');
 }
-echo 'success';
+echo '<xml><return_code>SUCCESS</return_code><return_msg>OK</return_msg></xml>';
 */

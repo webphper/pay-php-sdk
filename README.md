@@ -169,7 +169,7 @@ if ($verify) {
     file_put_contents('notify.txt', "收到异步通知\r\n", FILE_APPEND);
 }
 
-echo "success";
+echo '<xml><return_code>SUCCESS</return_code><return_msg>OK</return_msg></xml>';
 ```
 
 ## 安装
