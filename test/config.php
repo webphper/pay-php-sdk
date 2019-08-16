@@ -16,9 +16,9 @@ return [
         // 沙箱模式
         'debug'      => true,
         // 应用ID
-        'app_id'     => 'wxe335431b79068046',
+        'app_id'     => '',
         // 微信支付商户号
-        'mch_id'     => '1300513101',
+        'mch_id'     => '',
         /*
          // 子商户公众账号ID
          'sub_appid'  => '子商户公众账号ID，需要的时候填写',
@@ -26,7 +26,7 @@ return [
          'sub_mch_id' => '子商户号，需要的时候填写',
         */
         // 微信支付密钥
-        'mch_key'    => 'AGNq9Z6I9xQ7usWT2xPXc76pS9HUvcoq',
+        'mch_key'    => '',
         // 微信证书 cert 文件
         'ssl_cer'    => __DIR__ . '/cert/1300513101_cert.pem',
         // 微信证书 key 文件
